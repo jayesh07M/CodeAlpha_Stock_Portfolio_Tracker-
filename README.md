@@ -1,11 +1,11 @@
-📈 Task 2: Stock Portfolio Tracker
+# 📈 Task 2: Stock Portfolio Tracker
 
-📌 Overview
+## 📌 Overview
 
 This project is a simple Stock Portfolio Tracker built using Python.
 It allows users to enter stock names and quantities, calculates the total investment value, and optionally saves the result to a file.
 
-This task is designed for beginners to practice:
+## This task is designed for beginners to practice:
 
 Dictionaries
 
@@ -15,7 +15,7 @@ Basic arithmetic
 
 File handling (optional)
 
-🎯 Goal
+## 🎯 Goal
 
 Build a simple stock tracker that calculates the total investment based on:
 
@@ -25,7 +25,7 @@ User-entered quantities
 
 Manually defined (hardcoded) stock prices
 
-🛠 Features
+## 🛠 Features
 
 Hardcoded stock prices using a dictionary
 
@@ -39,7 +39,7 @@ Option to save results to .txt or .csv file
 
 Input validation for better reliability
 
-📚 Concepts Used
+## 📚 Concepts Used
 
 dictionary
 
@@ -53,7 +53,7 @@ arithmetic operations
 
 file handling (.txt and .csv)
 
-🧾 Example Stock Prices (Hardcoded)
+## 🧾 Example Stock Prices (Hardcoded)
 {
     "AAPL": 180,
     "TSLA": 250,
@@ -62,7 +62,7 @@ file handling (.txt and .csv)
     "AMZN": 135
 }
 
-▶️ How to Run
+## ▶️ How to Run
 
 Make sure Python 3 is installed
 
@@ -72,17 +72,13 @@ Run the program:
 
 python stock_portfolio_tracker.py
 
-💾 Output Files
+## 💾 Output Files
 
 portfolio.txt → readable summary
 
 portfolio.csv → spreadsheet-friendly format
 
-🚀 Future Improvements (Optional)
 
-Real-time stock prices using APIs
-
-GUI using Tkinter
 
 Graphical portfolio analysis
 
